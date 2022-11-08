@@ -30,9 +30,10 @@ blocking and set design
 lighting
 
 # Steps
-- [ ] 2 days  
+- [x] 2 days  
 - github infrastructure
 - [ ]  1 week
 - mood board.
 3. resource gathering 
  
+
