@@ -39,7 +39,7 @@ lighting
 
 ### Step 2
 - exploration
-- [ ]  mood board
+- [ ]  [[MoodBoard]]
 - [ ] script 
 - [ ] story board
 
