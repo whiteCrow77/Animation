@@ -1,5 +1,5 @@
 # Animation
-## Scene:
+## Scene: 3rd Person view
 - ruined walls(mental barriers) and towers(concrete, isolation) in a peaceful void
 - nadza(representative) breaks out of her tower
 - goes looking for people people who are also trapped
