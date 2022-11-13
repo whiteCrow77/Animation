@@ -1,0 +1,1 @@
+Scene 2.3  - KiminiNoWa - https://www.youtube.com/watch?v=xU47nhruN-Q: - When they both are looking at the landscape
