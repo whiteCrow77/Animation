@@ -9,8 +9,5 @@ stones fall
 the body tries to put the wall back together panicked
 tries to grab hope
 the light disappears in his hands
-the body looks up hopeless
-1.4
-sees a hand reaching for him pulling him out
 
 transition to scene 2
