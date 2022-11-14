@@ -7,7 +7,11 @@ the body becomes afraid making the light dim
 stones fall
 1.3
 the body tries to put the wall back together panicked
-tries to grab hope
+1.4
+the body notices the dimming light
+1.5
+tries to grab dimming hope
+1.6
 the light disappears in his hands
 
-transition to scene 2
+[[Animation/Scene Concept/Transition 1 to 2]] to [[Scene 2]]

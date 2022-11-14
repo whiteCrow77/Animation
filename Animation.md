@@ -1,7 +1,7 @@
 ## Scene: 3rd Person view
 - ruined walls(mental barriers) and towers(concrete, isolation) in a peaceful void
-- nadza(representative) breaks out of her tower
-- goes looking for people people who are also trapped
+- (representative) breaks out of her tower
+- goes looking for people who are also trapped
 - when they meet freedom emerges and fog will disappear and more walls will be revealed
 - all the freed people look a the obstacle with determination 
 
@@ -9,7 +9,7 @@
 represents different moods should be dynamic
 - animation options:
 grease pencil parallax
-timelaps
+timelapse
 - distant clouds and thunder
 - stars
 - distant galaxy's
@@ -21,12 +21,16 @@ timelaps
 - other wise it was too late
 - made of a mixture of brick and concrete
 
+### Hope*
+hope is a whisps of light that morphs to the needs of the ones that poses it
+*thoughts?*
+
 # Process
 ## Nadža
 painting and graphic design
 concept art
 ## Indra
-blocking and set design
+composition blocking and set design
 lighting
 
 # Progress 
@@ -47,3 +51,4 @@ lighting
 
  
 
+; means WIP
