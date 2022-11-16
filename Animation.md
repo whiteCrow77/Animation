@@ -9,7 +9,7 @@
 represents different moods should be dynamic
 - animation options:
 grease pencil parallax
-timelapse
+time-lapse
 - distant clouds and thunder
 - stars
 - distant galaxy's
@@ -25,6 +25,7 @@ timelapse
 hope is a whisps of light that morphs to the needs of the ones that poses it
 *thoughts?*
 
+
 # Process
 ## Nadža
 painting and graphic design
@@ -33,22 +34,20 @@ concept art
 composition blocking and set design
 lighting
 
-# Progress 
- 
 ## Pre Production
-### Step 1
-- setup
+### Step 1: Setup
 - [x] github infrastructure
 
-### Step 2
-- exploration
+### Step 2: Exploration
 - [ ]  [[MoodBoard]]
-- [ ] script 
-- [ ] story board
+- [ ] Scene concepts
+	- [ ] [[Scene 1]]
+	- [ ] [[Scene 2]]
+	- [ ] [[Scene 3;]]
+- [ ] Story Boards
+	- [ ] [[Scene_1]]
+	- [ ] [[Scene_2]]
+	- [ ] [[Scene_3;]]
 
-### Step 3
-- resource gathering 
 
- 
-
-; means WIP
+### Step 3: Resource Gathering 
