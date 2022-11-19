@@ -1,3 +1,6 @@
+# aesthetic
+minimalist line art using basic models ran trough a shader
+
 ## Scene: 3rd Person view
 - ruined walls(mental barriers) and towers(concrete, isolation) in a peaceful void
 - (representative) breaks out of her tower
@@ -25,6 +28,8 @@ time-lapse
 hope is a whisps of light that morphs to the needs of the ones that poses it
 *thoughts?*
 
+# The finale 
+the minimal aesthetic recedes to reveal a fully detailed view of the scene
 
 # Process
 ## Nadža
