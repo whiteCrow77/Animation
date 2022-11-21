@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-f21768cf69cd80aea90a726ddb8f88de73a7f8d6: [[Female v0.1.png]]
+4e34f2f38414791290a2e1f6be7a1cface46b9cd: [[Female v0.2.png]]
 
 %%
 # Drawing
@@ -22,31 +22,31 @@ f21768cf69cd80aea90a726ddb8f88de73a7f8d6: [[Female v0.1.png]]
 	"elements": [
 		{
 			"type": "image",
-			"version": 117,
-			"versionNonce": 686298132,
+			"version": 129,
+			"versionNonce": 4168492,
 			"isDeleted": false,
-			"id": "qhkIF9w1pn2_eVBvPbByY",
+			"id": "q9fxtcBu1iifEpT3pCvUq",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -291.6108468125595,
-			"y": -553.4453125,
+			"x": -288.1630036630038,
+			"y": -511.420763085262,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 594.221693625119,
-			"height": 1162.9925512104282,
-			"seed": 560353580,
+			"width": 638.7545787545788,
+			"height": 1131.1690992186348,
+			"seed": 2132750996,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1669060645325,
+			"updated": 1669060761511,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "f21768cf69cd80aea90a726ddb8f88de73a7f8d6",
+			"fileId": "4e34f2f38414791290a2e1f6be7a1cface46b9cd",
 			"scale": [
 				1,
 				1
