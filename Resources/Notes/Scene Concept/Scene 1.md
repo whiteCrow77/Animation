@@ -14,4 +14,5 @@ tries to grab dimming hope
 1.6
 the light disappears in his hands
 
-[[Animation/Scene Concept/Transition 1 to 2]] to [[Scene 2]]
+[[Transition 1 to 2]] to [[Scene 2]]
+[[Scene_1]]

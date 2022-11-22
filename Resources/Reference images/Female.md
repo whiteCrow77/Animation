@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-4e34f2f38414791290a2e1f6be7a1cface46b9cd: [[Female v0.2.png]]
+4e34f2f38414791290a2e1f6be7a1cface46b9cd: [[Animation/Resources/Reference images/Female v0.2.png]]
 
 %%
 # Drawing
