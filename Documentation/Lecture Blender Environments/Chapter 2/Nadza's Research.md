@@ -6,3 +6,5 @@ In this chapter the following things are explained:
 	- select item -> alt+D
 - **Shador editor**:
 	- *Will be explained in details soon*
+
+# [[Blender/shortcuts|Shortcuts]]

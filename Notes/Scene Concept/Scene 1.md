@@ -15,4 +15,4 @@ tries to grab dimming hope
 the light disappears in his hands
 
 [[Transition 1 to 2]] to [[Scene 2]]
-[[Scene_1]]
+[[Story board 1]]

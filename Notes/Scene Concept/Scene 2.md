@@ -11,4 +11,5 @@ Body looks at her with confusion, while she/he is telling him with gestures to l
 2.6
 Body looks around and becomes happy after seeing where he is now
 
-[[Transition 2 to 3;]] to [[Scene 3;]]
+[[Transition 1 to 2]] [[Transition 2 to 3;]] to [[Scene 3;]]
+[[Story board 2]]

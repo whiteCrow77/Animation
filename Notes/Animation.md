@@ -38,7 +38,7 @@ the minimal aesthetic recedes to reveal a fully detailed view of the scene arcan
 - [x] github infrastructure
 ### Exploration
 - [ ]  [[MoodBoard]]
-	- [ ] extract images from [[Links]]
+	- [ ] extract images from [[Refference Links]]
 - [ ] Scene concepts
 	- [x] [[Scene 1]]
 	- [x] [[Transition 1 to 2]]
@@ -46,11 +46,13 @@ the minimal aesthetic recedes to reveal a fully detailed view of the scene arcan
 	- [ ] [[Transition 2 to 3;]]
 	- [ ] [[Scene 3;]]
 - [ ] Story Boards
-	- [x] [[Scene_1]]
-	- [x] [[Scene_2]]
-	- [ ] [[Scene_3;]]
+	- [x] [[Story board 1]]
+	- [x] [[Story board 2]]
+	- [ ] [[Story board 3;]]
 
 ### Resource Gathering 
+- [ ]  [[Blender core|blender]] [[Nadza's Research| research]]
+	- [[Blender/shortcuts]]
 - [ ] asset creation
 	- [ ] female character model
 	- [ ] male character model
@@ -72,6 +74,10 @@ we might want to take a hiatus to focus on sound options
 - [ ] shader polish
 - [ ] compositing 
 - [ ] rendering?!
+- [ ] Sound Production
+	- [ ] [[Music|music]]
+	- [ ] [[Sound Effects| sound effects]]
+	- [ ] [[Melodies| melodies]]
 
 ### Post Production
 - [ ] publish?
