@@ -32,7 +32,7 @@ hope is a whisps of light that morphs to the needs of the ones that poses it
 # The finale 
 the minimal aesthetic recedes to reveal a fully detailed view of the scene arcane inspired
 
-# Process
+# [[Things to do]]
 ## Pre Production
 ### Setup
 - [x] github infrastructure
