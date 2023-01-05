@@ -51,7 +51,7 @@ the minimal aesthetic recedes to reveal a fully detailed view of the scene arcan
 	- [ ] [[Story board 3;]]
 
 ### Resource Gathering 
-- [ ]  [[Blender core|blender]] [[Nadza's Research| research]]
+- [ ]  [[Blender Core|blender]] [[Nadza's Research| research]]
 	- [[Blender/shortcuts]]
 - [ ] asset creation
 	- [ ] female character model
