@@ -32,7 +32,7 @@ hope is a whisps of light that morphs to the needs of the ones that poses it
 # The finale 
 the minimal aesthetic recedes to reveal a fully detailed view of the scene arcane inspired
 
-# Process
+# [[Things to do]]
 ## Pre Production
 ### Setup
 - [x] github infrastructure
@@ -52,7 +52,9 @@ the minimal aesthetic recedes to reveal a fully detailed view of the scene arcan
 
 ### Resource Gathering 
 - [ ]  [[Blender Core|blender]] [[Nadza's Research| research]]
-	- [[Blender/shortcuts]]
+	- [[Blender/shortcuts|shortcuts]]
+	- shaders
+	- node edditing
 - [ ] asset creation
 	- [ ] female character model
 	- [ ] male character model
